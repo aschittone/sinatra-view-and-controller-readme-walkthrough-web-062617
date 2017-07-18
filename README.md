@@ -9,9 +9,9 @@ In this code-along, we'll show you how to pass data back to views from your cont
 1. Pass data from a form to a controller using `params`
 2. Manipulate data inside of a route in the controller
 3. Assign data to an instance variable
-4. Render data in a `.erb` file using erb tags
+4. Render data in a `.erb` file using erb tag
 
-## Setup
+## Setu
 
 Why is passing data back to views from your controller so important? It allows us to make your pages *dynamic* rather than *static* - that is, the data can change depending on the inputs provided by the user. As an example, we'll be creating a "String Reverser" - the user inputs a string ("Hello World") into an HTML form, and is shown the reverse of the string ("dlroW olleH") on the following page.
 
